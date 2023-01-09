@@ -6,3 +6,7 @@ Advance Hotel Booking Website with admin panel using HTML-CSS-JavaScript-Ajax-Ph
 
 
 ![second](https://user-images.githubusercontent.com/89898283/211373019-0657ec75-a3b6-4e84-86c4-8cc65f6be4ce.png)
+
+# Facilities Page
+
+![third page](https://user-images.githubusercontent.com/89898283/211373663-670dd1b7-e47f-4fda-b468-d8747324e508.png)
